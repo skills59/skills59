@@ -24,15 +24,13 @@
 
 
 <h3 align="left">Stats:</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-readme-stats.vercel.app/api?username=skills59&show_icons=true&theme=vue" alt="skills59" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skills59&" alt="skills59" />
+</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skills59" alt="skills59" /></a> </p>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skills59&" alt="skills59" /></p>
 
