@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 
 - 🌱 I’m an Epistemophiliac, i love to learn new things. 
-- i have a long-term career goal which is is to become a founder of a top-tier tech company. i always describe myself as an autodidact which is someone who is passionate about technology as a whole, with a focus on providing solutions to problems.To achieve this goal, I plan to continue building my skills in every aspect of tech from software development, hardware to cloud technologies and more. I'm also interested in networking with industry professionals and attending conferences and workshops to stay up-to-date with the latest trends and best practices.
+- i have a long-term career goal which is is to become a founder of a top-tier tech company. i am an autodidact which means a self taught person. i am very passionate about technology as a whole, with a focus on providing solutions to problems.To achieve this goal, I plan to continue building my skills in every aspect of tech from software development, hardware to cloud technologies and more. I'm also interested in networking with industry professionals and attending conferences and workshops to stay up-to-date with the latest trends and best practices.
 
 - 👯 I’m looking to Collaborate
 - 📫 How to reach me **olatundeewuola@gmail.com**
